@@ -248,7 +248,7 @@
                             {!! $alumnoReprobados->links() !!}
                           </div>  
                           <div class="mt-3">
-                            <button type="button" class="btn btn-primary" onclick="window.location='{{ route('Formatos.index') }}'">Anexo 15 Casos Especiales 2021</button>
+                            <button type="button" class="btn btn-primary" onclick="window.location='{{ route(AlumnosReprobados.index') }}'">Anexo 15 Casos Especiales 2021</button>
                             <button type="button" class="btn btn-primary" onclick="window.location='{{ route('FormatoAnexo19.index') }}'">Anexo 19 Reporte semestral</button>
                             <button type="button" class="btn btn-primary" onclick="window.location='{{ route('FormatoAnexo19Mensual.index') }}'">Anexo 19 Reporte mensual</button>
                             <button type="button" class="btn btn-primary" onclick="window.location='{{ route('Archivos.index') }}'">Reportes alumnos Anexo 14</button>
