@@ -20,13 +20,7 @@
     </audio></p>
     <ul style="list-style-type: none; padding: 0;">
       <li style="display: inline-block; margin-right: 10px;">
-        <a href="menu_ejercicios.html" class="button">Ejercicios de mecanismos</a>
-      </li>
-      <li style="display: inline-block; margin-right: 10px;">
-        <a href="menu_formulas.html" class="button">Formulas</a>
-      </li>
-      <li style="display: inline-block; margin-right: 10px;">
-        <a href="datos.html" class="button">Acerca de</a>
+        <a href="simulacion_mecanismos.html" class="button">Inicio</a>
       </li>
     </ul>
   </div>
